@@ -1,0 +1,52 @@
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\ResolveAssemblyReference.cache
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.wCalendarDefinition.resources
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.wCalendar.resources
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\Calendar.csproj.GenerateResource.Cache
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\MerkurySerwis\bin\Debug\Calendar.dll
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\MerkurySerwis\bin\Debug\Calendar.pdb
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\Calendar.dll
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\Calendar.pdb
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.ColumnsHeader.resources
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.Grid.resources
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.RCHeader.resources
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.RowsHeader.resources
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.WLCalendar.resources
+C:\Users\Jacek Pater\Documents\Visual Studio 2008\Projects\Merkury Serwis\MerkurySerwis\bin\Debug\Calendar.dll
+C:\Users\Jacek Pater\Documents\Visual Studio 2008\Projects\Merkury Serwis\MerkurySerwis\bin\Debug\Calendar.pdb
+C:\Users\Jacek Pater\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jacek Pater\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.wCalendarDefinition.resources
+C:\Users\Jacek Pater\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.ColumnsHeader.resources
+C:\Users\Jacek Pater\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.Grid.resources
+C:\Users\Jacek Pater\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.RCHeader.resources
+C:\Users\Jacek Pater\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.RowsHeader.resources
+C:\Users\Jacek Pater\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.WLCalendar.resources
+C:\Users\Jacek Pater\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.wCalendar.resources
+C:\Users\Jacek Pater\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\Calendar.csproj.GenerateResource.Cache
+C:\Users\Jacek Pater\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\Calendar.dll
+C:\Users\Jacek Pater\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\Calendar.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Merkury Serwis\MerkurySerwis\bin\Debug\Calendar.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Merkury Serwis\MerkurySerwis\bin\Debug\Calendar.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.wCalendarDefinition.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.ColumnsHeader.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.Grid.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.RCHeader.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.RowsHeader.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.WLCalendar.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.wCalendar.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\Calendar.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\Calendar.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\Calendar.pdb
+C:\Documents and Settings\tom\Moje dokumenty\Visual Studio 2008\Projects\Merkury Serwis\MerkurySerwis\bin\Debug\Calendar.dll
+C:\Documents and Settings\tom\Moje dokumenty\Visual Studio 2008\Projects\Merkury Serwis\MerkurySerwis\bin\Debug\Calendar.pdb
+C:\Documents and Settings\tom\Moje dokumenty\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\tom\Moje dokumenty\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.wCalendarDefinition.resources
+C:\Documents and Settings\tom\Moje dokumenty\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.ColumnsHeader.resources
+C:\Documents and Settings\tom\Moje dokumenty\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.Grid.resources
+C:\Documents and Settings\tom\Moje dokumenty\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.RCHeader.resources
+C:\Documents and Settings\tom\Moje dokumenty\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.RowsHeader.resources
+C:\Documents and Settings\tom\Moje dokumenty\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.WLCalendar.resources
+C:\Documents and Settings\tom\Moje dokumenty\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\MerkuryCalendar.wCalendar.resources
+C:\Documents and Settings\tom\Moje dokumenty\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\Calendar.csproj.GenerateResource.Cache
+C:\Documents and Settings\tom\Moje dokumenty\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\Calendar.dll
+C:\Documents and Settings\tom\Moje dokumenty\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\Release\Calendar.pdb

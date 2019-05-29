@@ -1,0 +1,27 @@
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\bin\GIZO\Calendar.dll
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\bin\GIZO\Calendar.pdb
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\bin\GIZO\Mercury serwis.exe
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\bin\GIZO\Sun.dll
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\bin\GIZO\Venus.dll
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\bin\GIZO\WLib.dll
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\bin\GIZO\Interop.FAXCONTROLLib.dll
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\bin\GIZO\RdlEngine.dll
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\bin\GIZO\Interop.FAXCOMLib.dll
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\bin\GIZO\Venus.pdb
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\bin\GIZO\Mercury serwis.pdb
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\bin\GIZO\WLib.pdb
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\bin\GIZO\Sun.pdb
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\bin\GIZO\RdlEngine.pdb
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\bin\GIZO\af\Mercury serwis.resources.dll
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\bin\GIZO\de\Mercury serwis.resources.dll
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\GIZO\ResolveAssemblyReference.cache
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\GIZO\MerkuryCalendar.wCalendarDefinition.resources
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\GIZO\MerkuryCalendar.ColumnsHeader.resources
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\GIZO\MerkuryCalendar.Grid.resources
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\GIZO\MerkuryCalendar.RCHeader.resources
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\GIZO\MerkuryCalendar.RowsHeader.resources
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\GIZO\MerkuryCalendar.WLCalendar.resources
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\GIZO\MerkuryCalendar.wCalendar.resources
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\GIZO\Calendar.csproj.GenerateResource.Cache
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\GIZO\Calendar.dll
+C:\Users\tom\Documents\Visual Studio 2008\Projects\Merkury Serwis\Calendar\obj\GIZO\Calendar.pdb
